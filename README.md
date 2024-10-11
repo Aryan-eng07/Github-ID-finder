@@ -9,13 +9,14 @@ Key Features:
 5. Dark-Light mode feature: Using javascript website has also feature for dark and light mode.
    
 Technologies Used:
-HTML: For structuring the web page and creating input forms.
-CSS: To style the page, ensuring a clean, visually appealing layout.
-JavaScript: To handle user input, make API requests, and dynamically update the web page with the fetched data.
-GitHub API: Used to fetch details about a user’s GitHub profile by making an HTTP request using the username.
+1. HTML: For structuring the web page and creating input forms.
+2. CSS: To style the page, ensuring a clean, visually appealing layout.
+3. JavaScript: To handle user input, make API requests, and dynamically update the web page with the fetched data.
+4. GitHub API: Used to fetch details about a user’s GitHub profile by making an HTTP request using the username.
 
 How It Works:
-1.The user enters a GitHub username in the search bar.
-2.Upon clicking the "Search" button, a request is made to the GitHub API to retrieve information about the specified user.
-3.The application displays the user’s GitHub ID, along with additional details like their avatar, number of repositories, and followers.
-4.If the user does not exist, an error message is shown.
+1. The user enters a GitHub username in the search bar.
+2. Upon clicking the "Search" button, a request is made to the GitHub API to retrieve information about the specified user.
+3. The application displays the user’s GitHub ID, along with additional details like their avatar, number of repositories, and followers.
+4. If the user does not exist, an error message is shown.
+   
